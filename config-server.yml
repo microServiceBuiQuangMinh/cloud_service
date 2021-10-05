@@ -1,0 +1,16 @@
+{
+
+  "name":"config-server",
+  "profiles":["default"],
+  "label":null,
+  "version":""
+  "state":null,
+  "propertySources":[
+    {
+      "name":"https://github.com/microServiceBuiQuangMinh/configService/blob/main/src/main/resources/config-server.yml",
+      "source":{
+        "welcome":"WELCOME Ban Cua Bui Quang Minh"
+      }
+    }
+  ]
+}
